@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Games",
+  "description": "An unblocked games platform featuring playable HTML5 browser games embedded via iframes, stored in JSON with search, filter, fullscreen, custom games, favorites, and game controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
